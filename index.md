@@ -1,4 +1,4 @@
-## 无知的尧，欢迎来到民的网站
+## 民嘲讽尧的网站
 
 你永远不知道我是怎么做到的，因为你很无知，啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈！！
 
@@ -36,4 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+不要再往下翻了，我刚做好里面啥还没有类
