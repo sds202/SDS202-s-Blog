@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 无知的尧，欢迎来到民的网站
+
+你永远不知道我是怎么做到的，因为你很无知，啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈！！
 
 You can use the [editor on GitHub](https://github.com/sds202/SDS202-s-Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
