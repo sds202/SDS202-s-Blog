@@ -2,7 +2,7 @@
 
 你永远不知道我是怎么做到的，因为你很无知，啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈！！
 
-You can use the [editor on GitHub](https://github.com/sds202/SDS202-s-Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这个网站是专门为了民民嘲讽尧尧而设定的，在这里民民是无敌的，民民可以把尧尧的丑东西放在这里。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
