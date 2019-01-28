@@ -10,8 +10,8 @@ ul{list-style:none;padding:0;display:flex;margin:0 auto;width:700px;}
 @font-face{font-family:'arial';src:url(msyhbd.ttf);}
 h1{font-family:arial;}
 .logo{animation:logo 2s}
-@keyframs logo
+@keyframes logo
 {
-  from{opacity:0;}
-    to{opacity:100;}
+  from{opacity:0}
+    to{opacity:100}
 }
