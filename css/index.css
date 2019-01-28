@@ -9,7 +9,7 @@ ul{list-style:none;padding:0;display:flex;margin:0 auto;width:700px;}
 .aad{width:700px;height:100%;padding:10px 0;}
 @font-face{font-family:'arial';src:url(msyhbd.ttf);}
 h1{font-family:arial;}
-#logo{animation:logo 2s}
+#logo,.nav-item{animation:logo 3s}
 @keyframes logo
 {
   from{opacity:0}
